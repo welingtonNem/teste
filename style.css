@@ -1,0 +1,29 @@
+body {
+    background-color: #D5E1EF;
+}
+
+.con {
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
+
+.conteiner {
+    width: 258px;
+    height: 380px;
+    box-shadow: 7px 7px 7px 7px rgba(0, 0, 0, 0.445);
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+.conteiner p {
+    font-size: 13px;
+    margin: 8px;
+    color: rgba(0, 0, 0, 0.411);
+}
+
+.img img {
+    margin-top: 20px;
+    border-radius: 7px;
+}
